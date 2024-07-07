@@ -1,10 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=172787&random=false&lines=Omar%2C+Front+End+developer+from+Egypt;Always+learning+new+things" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=172787&random=false&lines=Omar%2C+Front+End+developer+from+Egypt;Always+learning+new+things" alt="Typing SVG" /></a>
+
 <h1 align="center">Hi 👋, I'm omar</h1>
 <h3 align="center">A passionate frontend developer from egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmegzz&label=Profile%20views&color=0e75b6&style=flat" alt="omarmegzz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmegzz" alt="omarmegzz" /></a> </p>
 
 - 📫 How to reach me **omarmagdyzz12@gmail.com**
 
@@ -20,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmegzz&show_icons=true&locale=en&layout=compact" alt="omarmegzz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmegzz&show_icons=true&locale=en" alt="omarmegzz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmegzz&" alt="omarmegzz" /></p>
