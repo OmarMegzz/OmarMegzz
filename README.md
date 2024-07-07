@@ -1,9 +1,8 @@
 <a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=172787&random=false&lines=Omar%2C+Front+End+developer+from+Egypt;Always+learning+new+things" alt="Typing SVG" /></a>
 
 
-<h3 align="center">A passionate frontend developer from egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmegzz&label=Profile%20views&color=0e75b6&style=flat" alt="omarmegzz" /> </p>
+<h3 align="center">A passionate frontend developer from egypt</h3>
 
 - 📫 How to reach me **omarmagdyzz12@gmail.com**
 
